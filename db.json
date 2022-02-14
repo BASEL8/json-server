@@ -1,20 +1,52 @@
 {
-  "user":{
-    "name":"Test",
-    "img":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
-    "language":"sv"
+  "user": {
+    "name": "Test",
+    "img": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+    "language": "sv"
   },
-  "messages" : [
-    {"id":1,"title":"Messages 1","date":"2022/02/10"},
-    {"id":2,"title":"Messages 2","date":"2022/02/13"},
-    {"id":3,"title":"Messages 3","date":"2022/02/14"}    
+  "messages": [
+    {
+      "id": 1,
+      "title": "Messages 1",
+      "date": "2022/02/10"
+    },
+    {
+      "id": 2,
+      "title": "Messages 2",
+      "date": "2022/02/13"
+    },
+    {
+      "id": 3,
+      "title": "Messages 3",
+      "date": "2022/02/14"
+    }
   ],
-  "notifications":[
-     {"id":1,"title":"notification 1","date":"2022/02/10"},
-     {"id":2,"title":"notification 2","date":"2022/02/10"},
-     {"id":3,"title":"notification 3","date":"2022/02/10"},
-     {"id":4,"title":"notification 4","date":"2022/02/10"},
-     {"id":5,"title":"notification 5","date":"2022/02/10"},
+  "notifications": [
+    {
+      "id": 1,
+      "title": "notification 1",
+      "date": "2022/02/10"
+    },
+    {
+      "id": 2,
+      "title": "notification 2",
+      "date": "2022/02/10"
+    },
+    {
+      "id": 3,
+      "title": "notification 3",
+      "date": "2022/02/10"
+    },
+    {
+      "id": 4,
+      "title": "notification 4",
+      "date": "2022/02/10"
+    },
+    {
+      "id": 5,
+      "title": "notification 5",
+      "date": "2022/02/10"
+    }
   ],
-  "type":1
+  "type": 1
 }
