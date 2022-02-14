@@ -2,9 +2,8 @@
   "user": {
     "name": "Test",
     "img": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
-    "language": "sv"
-  },
-  "messages": [
+    "language": "sv",
+    "messages": [
     {
       "id": 1,
       "title": "Messages 1",
@@ -21,7 +20,7 @@
       "date": "2022/02/14"
     }
   ],
-  "notifications": [
+      "notifications": [
     {
       "id": 1,
       "title": "notification 1",
@@ -47,6 +46,7 @@
       "title": "notification 5",
       "date": "2022/02/10"
     }
-  ],
+  ]
+  },
   "type": 1
 }
